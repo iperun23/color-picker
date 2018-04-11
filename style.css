@@ -19,3 +19,8 @@ h3 {
     font: 900 1em;
     letter-spacing: .01em;
 }
+.color1,
+.color2,
+#colorbutton {
+    padding: 3px;
+}
